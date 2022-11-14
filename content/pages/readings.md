@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction to the Course
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_1)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_1" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ No Readings
 
 Bacterial Effector Proteins that Hijack Host Cell Signaling: The Rho GTPase Story
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_2)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_2" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +76,7 @@ Alto, N. M., F. Shao, et al. "[Identification of a Bacterial Type III Effector F
 
 Bacterial Toxins and their Impact on the Host Immune System
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_3)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_3" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +100,7 @@ Cassel, Dan, and Zvi Selinger. "[Mechanism of Adenylate Cyclase Activation by Ch
 
 Feeling Ill: Common Human Pathogens that Infect the Mucosal Epithelium
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_4)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_4" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +124,7 @@ Gaulin, C, Ramsay D, et al. "[_Escherichia Coli_ O157:H7 Outbreak Associated wit
 
 Bacterial Pathogens and Innate Immunity: _Caenorhabditis Elegans – Pseudomonas Aeruginosa_ Interactions as Model to Study Ancient Anti-bacterial Defense Mechamisms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_5)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_5" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +148,7 @@ Zhu, S., and B Gao. "[Nematode-derived Drosomycin-type Antifungal Peptides Provi
 
 Two Strategies, Same Outcome: How _Salmonella Typhimurium_ and _Neisseria Gonorrhoeae_ Resist the Host's Attempts to Clear them from Mucosal Layers
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_6)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_6" %}}
 
 
 {{< tdclose >}}
@@ -170,7 +172,7 @@ Muenzner, P., V. Bachmann, et al. "[Human-restricted Bacterial Pathogens Block S
 
 Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_7)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_7" %}}
 
 
 {{< tdclose >}}
@@ -188,7 +190,7 @@ No Readings
 
 Innate Immune Responses at Intestinal Mucosal Surfaces
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_8)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_8" %}}
 
 
 {{< tdclose >}}
@@ -212,7 +214,7 @@ Chieppa, M., M. Rescigno, et al. "[Dynamic Imaging of Dendritic Cell Extension i
 
 Antibody-mediated Mechanisms against Invasion by Bacteria
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_9)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_9" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ Kawamoto, S., M. Maruya, et al. "[Foxp3(+) T Cells Regulate Immunoglobulin A Sel
 
 T-cell Responses at Intestinal Mucosal Surfaces
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_10)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_10" %}}
 
 
 {{< tdclose >}}
@@ -260,7 +262,7 @@ Nishio, J., Baba, M., et al. "[Requirement of Full TCR Repertoire for Regulatory
 
 Interplay between Gut Microbiome and Lymphocyte Fate and Function
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_11)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_11" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +286,7 @@ Ahern, P.P., Schiering, C., et al. "[Interleukin-23 Drives Intestinal Inflammati
 
 Dysbiosis and Autoimmune Conditions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_12)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_12" %}}
 
 
 {{< tdclose >}}
@@ -308,7 +310,7 @@ Palm, N. W., M. R. de Zoete, et al. "[Immunoglobulin A Coating Identifies Colito
 
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#SUM_13)
+{{% resource_link fb756105-b2d0-83ce-17af-52aa83ed5a64 "See the Lecture Summary" "#SUM_13" %}}
 
 
 {{< tdclose >}}
