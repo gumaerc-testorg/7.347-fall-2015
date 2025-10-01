@@ -227,7 +227,7 @@ Dysbiosis and Autoimmune Conditions
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the laboratory of [Eric Alm](https://be.mit.edu/directory/eric-alm) at the [Broad Institute](http://www.broadinstitute.org/), Cambridge, MA
+Field trip to the laboratory of {{% resource_link "1b45be7a-f90b-4175-9614-263c567482e3" "Eric Alm" %}} at the {{% resource_link "003ddedb-76e7-4fa1-b32c-454524f8979d" "Broad Institute" %}}, Cambridge, MA
 {{< tdclose >}}
 {{< tdopen >}}
 Written assignment due
